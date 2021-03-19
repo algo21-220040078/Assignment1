@@ -34,4 +34,5 @@ Conclusion
 ![实际和预测图](https://user-images.githubusercontent.com/80868998/111780549-81700f00-88f2-11eb-9a3e-415aaf10a22c.png)
 
 （1）Although the overall trend is similar and the last seven weeks are very consistent, most of them misjudge the increase in returns as a decrease in returns. Investors are likely to lose higher potential future returns if they make decision according to this.
+
 （2）The prediction of BP neural network model is more accurate in the period of serious loss and the loss value is more extreme. From this point of view, BP neural network model is helpful for investors to avoid potential huge losses in the future.
