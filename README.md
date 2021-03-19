@@ -7,6 +7,8 @@ Data Source
 ==
 Sample data are from the CHFDB database. The period of data is from the January of 2015 to the December of 2019. It contains 258 weeks.
 
+We choose Peng Hua Asset Clear Water Source Fund as the study subject because its data is more complete and this fund lasts for a longer time. 
+
 Data Processing
 ==
 Input and Output
@@ -30,5 +32,6 @@ We use the mean square error as the loss function, Adam as optimizer and the lea
 Conclusion
 ===
 ![实际和预测图](https://user-images.githubusercontent.com/80868998/111780549-81700f00-88f2-11eb-9a3e-415aaf10a22c.png)
+
 Although the overall trend is similar and the last seven weeks are very consistent, most of them misjudge the increase in returns as a decrease in returns. Investors are likely to lose higher potential future returns if they make decision according to this.
 The prediction of BP neural network model is more accurate in the period of serious loss and the loss value is more extreme. From this point of view, BP neural network model is helpful for investors to avoid potential huge losses in the future.
