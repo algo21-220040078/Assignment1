@@ -1,6 +1,7 @@
 # Assignment1
 Machine Learning
 #Basic Thoughts
+===
 For this assignment, I mainly use Back Propagation Neural Network method to predict the future return rate of private equity funds. I choose BP because the fluctuation of private equity fund shows strong nonlinear characteristics. And because of the data scarcity, the studies of related content of private equity fund prediction in China market are few. Meanwhile, the neural network requires a large sample size of the data.
 #Data Source
 Sample data are from the CHFDB database. The period of data is from the January of 2015 to the December of 2019. It contains 258 weeks.
